@@ -20,5 +20,4 @@
     BagItem.create(name: "Portable phone charger" , occasion: "Festival Bag" , image: "https://i.pinimg.com/474x/53/0f/77/530f774c46e3ed98d545725e55d52124--solar-energy-solar-power.jpg" )
     BagItem.create(name: "Japanese brand cooling eye drops (rohtos!)" , occasion: "Festival Bag" , image: "https://i.ebayimg.com/00/s/MTAwMFgxMDAw/z/4XoAAOSwDXxcjnJj/$_32.JPG" )
     BagItem.create(name: "Tons of electrolyte-infused alkaline bottled water" , occasion: "Festival Bag" , image: "https://wholefoodsmagazine.com/wp-content/uploads/2017/02/alkaline.jpg")
-    BagItem.create(name: "Sage", occasion: "Festival Bag", image: "https://angelnumbers.net/wp-content/uploads/2019/01/How-to-sage-a-house-Smudging-how-to-clean-house.png" )
-    BagItem.create(name: "Crystal", occasion: "Festival Bag", image: "https://www.earthboundtrading.com/media/catalog/product/cache/1/small_image/306x460/9df78eab33525d08d6e5fb8d27136e95/5/1/51404-quartzpointrough-307.jpg")
+    BagItem.create(name: "Sage", occasion: "Festival Bag", image: "https://angelnumbers.net/wp-content/uploads/2019/01/How-to-sage-a-house-Smudging-how-to-clean-house.png")
