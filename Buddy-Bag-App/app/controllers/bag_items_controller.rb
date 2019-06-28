@@ -1,5 +1,5 @@
 class BagItemsController < ApplicationController
   def index
-    @all_bag_items = BagItem.all
+    render json: BagItem.all
   end
 end
